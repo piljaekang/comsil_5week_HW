@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("I worte on this in branch1");
+	printf("I worte this in master");
 
 	return 0;
 }
